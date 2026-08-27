@@ -1,0 +1,15 @@
+{
+    "SiteCode": "PS1",
+    "SiteServer": "cm01.contoso.com",
+    "PackageSourceRoot": "\\\\cm01\\Sources$\\Packages",
+    "DistributionPointGroup": "All Distribution Points",
+    "PackageFolder": "Software",
+    "Manufacturer": "Contoso",
+    "LogPath": "C:\\Windows\\Logs\\SCCMPackage",
+    "Program": {
+        "RunType": "Hidden",
+        "ProgramRunType": "WhetherOrNotUserIsLoggedOn",
+        "DurationMinutes": 30,
+        "DiskSpaceMB": 1024
+    }
+}
